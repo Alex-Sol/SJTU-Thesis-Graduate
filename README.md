@@ -6,9 +6,10 @@
 
 ## 欢迎使用上海交通大学硕士论文模板
 
-本文是在https://github.com/sjtug/SJTUThesis 的基础上进行修改实现的，参照https://www.gs.sjtu.edu.cn/info/1136/8374.htm 2021年研究生院发布的版本。
+本文是在https://github.com/sjtug/SJTUThesis 的基础上进行修改实现的，参照https://www.gs.sjtu.edu.cn/info/1136/8374.htm 2021年5月研究生院发布的版本。
 
-下面是https://github.com/sjtug/SJTUThesis中的README内容。
+下面是https://github.com/sjtug/SJTUThesis 中的README内容。
+
 ---
 
 本示例模板是应用上海交通大学学位论文（非官方）LaTeX 文档类 SJTUThesis 的一个完整实现。演示了排版中常用的例子，包括公式、表格、算法、参考文献等。
